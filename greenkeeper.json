@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "controlled-components/package.json",
+        "form-state/package.json",
+        "stateful-and-stateless-components/package.json"
+      ]
+    }
+  }
+}
